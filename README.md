@@ -1,6 +1,6 @@
 ## Crypto Coin App - Arquitetura Limpa com BLoC e Dio 🚀 🔄 🌐
 
-Codificação em Flutter e Dart para aplicação Crypto Coin usando as melhores práticas de programação para construir aplicações móveis robustas, com integração de API da CoinMarketCap em real time para consumir dados de forma escaláveis e mantíveis usando Flutter. Ele enfatiza os princípios da Arquitetura Limpa, programação orientada a objetos (OOP), padrões de design, princípios SOLID e integração eficaz de APIs com BLoC para gerenciamento de estado e Dio para lidar com chamadas de requisições de Api.
+Codificação em Flutter e Dart para aplicação Crypto Coin App usando as melhores práticas de programação para construir aplicações móveis robustas, com integração de API da CoinMarketCap em real time para consumir dados de forma escaláveis e mantíveis usando Flutter. Ele enfatiza os princípios da Arquitetura Limpa, programação orientada a objetos (OOP), padrões de design, princípios SOLID e integração eficaz de APIs com BLoC para gerenciamento de estado e Dio para lidar com chamadas de requisições de Api.
 
 ### Tecnologias Utilizadas 🛠️
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -102,7 +102,7 @@ flutter run
 para construir e executar o aplicativo em seu emulador ou dispositivo.
 
 ### Conclusão
-Em resumo, o Crypto Coin é um exemplo primoroso de como modernas práticas de desenvolvimento e arquitetura de software podem ser implementadas em um ambiente de desenvolvimento Flutter para criar aplicações que são não apenas funcionais, mas também extensíveis, sustentáveis e de fácil manutenção. Este projeto serve como um modelo valioso para desenvolvedores que procuram criar aplicações comerciais robustas com Flutter, fornecendo um caminho claro para o sucesso no desenvolvimento de software móvel.
+Em resumo, o Crypto Coin App é um exemplo primoroso de como modernas práticas de desenvolvimento e arquitetura de software podem ser implementadas em um ambiente de desenvolvimento Flutter para criar aplicações que são não apenas funcionais, mas também extensíveis, sustentáveis e de fácil manutenção. Este projeto serve como um modelo valioso para desenvolvedores que procuram criar aplicações comerciais robustas com Flutter, fornecendo um caminho claro para o sucesso no desenvolvimento de software móvel.
 
 ### Desenvolvido por:
 Emerson Amorim [@emerson-amorim-dev](https://www.linkedin.com/in/emerson-amorim-dev/)
