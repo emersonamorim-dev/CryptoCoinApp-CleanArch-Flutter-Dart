@@ -1,4 +1,4 @@
-part of 'coin_bloc.dart'; // Garante que este arquivo faça parte do mesmo 'part' do seu Bloc
+part of 'coin_bloc.dart'; 
 
 abstract class CoinEvent extends Equatable {
   @override
